@@ -1,20 +1,39 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+- [Frontend Mentor - Time tracking dashboard solution](#frontend-mentor---time-tracking-dashboard-solution)
+  - [Building The Project](#building-the-project)
+- [Old readme content](#old-readme-content)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+## Building The Project
+
+I'm starting off with writing/completing the HTML syntax. Adding `divs` with `headers`, `paragraphs` and `buttons` with their corrent `attributes` and `classnames`.
+
+- [X] Initialize git to the project and connect with a public repository on GitHub.
+- [X] Set up Github Pages for this project to share a live version of the project in progress.
+- [X] Look through the designs to start planning out how I'll tackle the project. This step is crucial to help think ahead for CSS classes to create reusable styles.
+- [X] Before adding any styles, structure your content with HTML. Using the correct tags, syntax, semantics, attributes and more.
+- [ ] Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
+- [ ] Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+
+
+
+
+
+
+# Old readme content
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -34,7 +53,7 @@ Users should be able to:
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -43,7 +62,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://thijswaalders.github.io/FM-Time-Tracking-Dashboard/)
 
 ## My process
 
